@@ -1,0 +1,102 @@
+{
+  "P001": {
+    "name": "Ali Raza",
+    "city": "Lahore",
+    "age": 34,
+    "gender": "Male",
+    "height": 5.8,
+    "weight": 72,
+    "diagnosis": "Hypertension",
+    "phone": "0300-0000001"
+  },
+  "P002": {
+    "name": "Sara Khan",
+    "city": "Islamabad",
+    "age": 28,
+    "gender": "Female",
+    "height": 5.4,
+    "weight": 60,
+    "diagnosis": "Migraine",
+    "phone": "0300-0000002"
+  },
+  "P003": {
+    "name": "Hamza Ahmed",
+    "city": "Karachi",
+    "age": 45,
+    "gender": "Male",
+    "height": 5.9,
+    "weight": 84,
+    "diagnosis": "Type 2 Diabetes",
+    "phone": "0300-0000003"
+  },
+  "P004": {
+    "name": "Ayesha Malik",
+    "city": "Multan",
+    "age": 31,
+    "gender": "Female",
+    "height": 5.5,
+    "weight": 63,
+    "diagnosis": "Asthma",
+    "phone": "0300-0000004"
+  },
+  "P005": {
+    "name": "Bilal Hussain",
+    "city": "Faisalabad",
+    "age": 52,
+    "gender": "Male",
+    "height": 5.7,
+    "weight": 88,
+    "diagnosis": "Arthritis",
+    "phone": "0300-0000005"
+  },
+  "P006": {
+    "name": "Zainab Iqbal",
+    "city": "Bahawalpur",
+    "age": 24,
+    "gender": "Female",
+    "height": 5.3,
+    "weight": 57,
+    "diagnosis": "Anemia",
+    "phone": "0300-0000006"
+  },
+  "P007": {
+    "name": "Usman Tariq",
+    "city": "Rawalpindi",
+    "age": 39,
+    "gender": "Male",
+    "height": 6.0,
+    "weight": 79,
+    "diagnosis": "Gastritis",
+    "phone": "0300-0000007"
+  },
+  "P008": {
+    "name": "Hira Shah",
+    "city": "Sialkot",
+    "age": 42,
+    "gender": "Female",
+    "height": 5.6,
+    "weight": 68,
+    "diagnosis": "Hypothyroidism",
+    "phone": "0300-0000008"
+  },
+  "P009": {
+    "name": "Ahmed Saeed",
+    "city": "Peshawar",
+    "age": 29,
+    "gender": "Male",
+    "height": 5.10,
+    "weight": 70,
+    "diagnosis": "Allergy",
+    "phone": "0300-0000009"
+  },
+  "P010": {
+    "name": "Fatima Noor",
+    "city": "Gujranwala",
+    "age": 36,
+    "gender": "Female",
+    "height": 5.4,
+    "weight": 62,
+    "diagnosis": "Insomnia",
+    "phone": "0300-0000010"
+  }
+}
